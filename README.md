@@ -26,7 +26,7 @@
 
 এখানে যে ২ তারে অহুম বেশি দেখাইছে ঐ ২ টি হলো Runing and starding কয়েলের তার।
 
-যেমন:- লাল+কাল=৩৮৮ অহুম Runing and starding 
+যেমন:- লাল+কাল=৩৮৮ অহুম Runing and starding [ সব থেকে বেশি মান]
 
 ## কমন ঠিক রেখে Runing and starding ক্যাপাসিটর লাগানুর জন্য!
 
