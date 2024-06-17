@@ -1,5 +1,13 @@
 ## Ceiling-Fan-Wiring
 
+
+<!--[profile](./r.jpg)-->
+<img src="r.jpg" width="600"/>
+
+
+
+## end
+
 <!--[profile](./w.jpg)-->
 <img src="w.jpg" width="600"/>
 
