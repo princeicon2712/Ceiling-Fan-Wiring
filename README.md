@@ -46,6 +46,6 @@
 
 
 <!--[profile](./r3.jpg)-->
-<img src="r3.jpg" width="600"/>
+<img src="r3.jpg" width="300"/>
 
 
